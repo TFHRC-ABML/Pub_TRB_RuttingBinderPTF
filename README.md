@@ -50,7 +50,7 @@ The dataset is provided as an Excel file, `Data.xlsx`, which contains multiple s
 - **MSCR**: Measured recovery (e.g., $R_{3.2}$) and non-recoverable creep compliance (e.g., $J_{nr,3.2}$) parameters for tank and recovered binder at 64°C. 
 - **Binder Frequency Sweep**: Detailed binder frequency sweep results at different temperatures ranging from 10°C to 82°C and loading frequencies ranging from 0.1 rad/s to 100 rad/s for all the tank and recovered binders at different aging levels.  
 
-**NOTE**: **Tank binders** refer to the binders collected from the asphalt binder tank in the asphalt plant during the production of the mixtures for construction. However, **recovered binders** refer to the binder extracted and recovered from the loose mixtures sampled right behind the asphalt paver. 
+**NOTE**: **Tank binders** refer to the binders collected from the asphalt binder tank in the asphalt plant during the production of the mixtures for construction. However, **recovered binders** refer to the binders extracted and recovered from the loose mixtures sampled right behind the asphalt paver. 
 
 ---
 
@@ -58,10 +58,10 @@ The dataset is provided as an Excel file, `Data.xlsx`, which contains multiple s
 
 The analysis is organized into four Jupyter Notebooks:
 
-- `Task01_Binder_HTPG.ipynb`: This notebook include the codes to read, analyze, and plot the High-Temperature Performance Grade (HTPG) asphalt binders.
-- `Task02_Binder_MSCR.ipynb`: This notebook include the codes to read, analyze, and plot the Multiple Stress Creep Recovery (MSCR) asphalt binders.
-- `Task03_Binder_FrequencySweep.ipynb`: This notebook include the codes to read, analyze, and plot the Zero-Shear Viscosity (ZSV) and Shenoy parameter for asphalt binders, based on the frequency sweep test results.
-- `Task04_Binder_CorrelationStudy.ipynb`: This notebook include the codes to evaluate the correlation between different parameters and plot a correlation graph.
+- `Task01_Binder_HTPG.ipynb`: This notebook includes the codes to read, analyze, and plot the High-Temperature Performance Grade (HTPG) asphalt binders.
+- `Task02_Binder_MSCR.ipynb`: This notebook includes the codes to read, analyze, and plot the Multiple Stress Creep Recovery (MSCR) asphalt binders.
+- `Task03_Binder_FrequencySweep.ipynb`: This notebook includes the codes to read, analyze, and plot the Zero-Shear Viscosity (ZSV) and Shenoy parameter for asphalt binders, based on the frequency sweep test results.
+- `Task04_Binder_CorrelationStudy.ipynb`: This notebook includes the codes to evaluate the correlation between different parameters and plot a correlation graph.
 
 ---
 
